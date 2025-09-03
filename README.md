@@ -22,6 +22,8 @@ This project highlights a modern responsive design with smooth transitions, show
 
 ## 📸 Preview
 ![snapshot-1](https://github.com/user-attachments/assets/1f00a00e-c616-4479-9c54-57578a5b5cfa)
+![Snapshot-2](https://github.com/user-attachments/assets/14c1e357-bd1a-40ef-8e36-1d7b23aae9c1)
+
   
 
 ---
