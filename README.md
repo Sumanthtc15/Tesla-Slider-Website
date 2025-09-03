@@ -16,7 +16,7 @@ This project highlights a modern responsive design with smooth transitions, show
 ## 📂 Tech Stack
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla JS)**  
+- **JavaScript**  
 
 ---
 
